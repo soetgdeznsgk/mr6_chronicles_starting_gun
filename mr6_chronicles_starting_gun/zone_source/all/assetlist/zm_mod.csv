@@ -1,0 +1,4 @@
+rawfile,dummy.cfg
+scriptparsetree,scripts/zm/gametypes/zclassic.gsc
+scriptparsetree,scripts/zm/zm_mod.gsc
+keyvaluepairs,zm_mod
